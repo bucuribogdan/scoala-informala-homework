@@ -1,5 +1,17 @@
 package com.sci.bv.tema9Ianuarie;
 
+/**
+ * Returns the biggest number of three numbers.
+ * Is created the method getMax() which calculates the biggest number from two numbers.
+ * Three numbers are read from the keyboard, then the method is implemented on these numbers and the
+ * biggest number is displayed on the screen.
+ *
+ *
+ * @param  maximum,a,b are the given numbers which will be tested
+ * @return    the biggest number
+
+ */
+
 import java.util.Scanner;
 
 public class Main {
