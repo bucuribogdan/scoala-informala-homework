@@ -1,0 +1,7 @@
+Bogdan,Bucur,29/12/1993
+Andrei,Ababei,04/12/1996
+Sabina,Vlasa,26/05/1994
+Marius,Andrei,15/06/1990
+Laurentiu,Anghel,10/12/1980
+Gigi,Frone,09/12/1985
+Alex,Zaharia,08/12/2000
