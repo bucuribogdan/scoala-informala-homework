@@ -1,0 +1,7 @@
+courseid,area,title,descrip,prereqs
+25,Law,Introduction to Law,"Subjects covered in the course: Foundations of Law,Basic Legal Concepts",Basic informations about law
+30,Law,Introduction to Constitutional Law,"Property Law, Contracts, Tort Law",Basic informations about constitutional law
+31,Economics,Introduction to Economics,"Foundations of Law,Basic Legal Concepts",Basic informations about economics
+32,Economics,Accounting,"Subjects covered in the course: Foundations of Law,Basic Legal Concepts",Basic informations about accounting
+33,Economics,Principles of Economics,"Subjects covered in the course: Foundations of Law,Basic Legal Concepts",Basic informations about economics
+34,Economics,Frontiers in Economic Research and Policy,"Subjects covered in the course: Foundations of Law,Basic Legal Concepts",Basic informations about economics
