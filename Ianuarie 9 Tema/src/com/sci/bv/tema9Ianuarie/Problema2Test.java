@@ -6,10 +6,11 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class Problema2Test {
-    Problema2 grade= new Problema2();
+    Problema2 grade = new Problema2();
 
     @Test
     void getCelsius() {
-        Assertions.assertEquals(grade.getCelsius(50),10);
+        Assertions.assertEquals(grade.getCelsius(50), 10);
+        assertThrows(IllegalArgumentException.class, () -> grade.getCelsius(99));
     }
 }
